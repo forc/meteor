@@ -5,6 +5,8 @@ meteor
 
 #### resource
 
+http://gaslight.co/blog/how-to-remove-all-elements-from-a-meteor-collection
+
 http://www.meteor.com/main
 
 http://docs.meteor.com/
